@@ -23,14 +23,11 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, redes e criação de con
 
 ## 🛠️ Projetos Recentes:
 
-- [Projeto de Base de Conhecimento sobre Redes](https://github.com/trickveiraoficial/base-conhecimento-redes)
-- [Site sobre Comandos PowerShell](https://github.com/trickveiraoficial/powershell-comandos)
+- [Imersão Alura Gemini - Comandos Linux](https://github.com/trickveiraoficial/comandoslinux)
+- [Imersão Alura Gemini - Comandos Windows](https://github.com/trickveiraoficial/ComandosDeRedesNoWindows)
 
 
 ## 🌐 Me encontre em:
 
 - YouTube: [TRICKVEIRA](https://www.youtube.com/c/TRICKVEIRA)
 - LinkedIn: [Patrick Oliveira](https://www.linkedin.com/in/ids-oliveira)
-
-
-<img align="right" alt="Coding" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
