@@ -23,8 +23,8 @@ Bem-vindo ao meu perfil! Sou apaixonado por tecnologia, redes e criação de con
 
 ## 🛠️ Projetos Recentes:
 
-- [Imersão Alura Gemini - Comandos Linux](https://github.com/trickveiraoficial/comandoslinux)
-- [Imersão Alura Gemini - Comandos Windows](https://github.com/trickveiraoficial/ComandosDeRedesNoWindows)
+- [Tradutor de Arquivos SRT](https://github.com/trickveiraoficial/traducaosrt)
+- [deepseek-r1-chatbot-speech-azure](https://github.com/trickveiraoficial/deepseek-r1-chatbot-speech-azure)
 
 
 ## 🌐 Me encontre em:
