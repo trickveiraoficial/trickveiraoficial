@@ -1,5 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Olá! Eu sou Patrick Oliveira**
 
+![Banner](https://i.ibb.co/PsK2kw3j/banner-trickveira.jpg)  
+
+
 Bem-vindo ao meu cantinho no GitHub! Sou um apaixonado por tecnologia, criador de conteúdo no YouTube e entusiasta de soluções inovadoras. Especializado em redes, programação e desenvolvimento, estou sempre buscando formas criativas de resolver problemas e compartilhar conhecimento com o mundo.
 
 > **"A tecnologia é a ponte entre o impossível e o real – e eu adoro construir essas pontes!"**
