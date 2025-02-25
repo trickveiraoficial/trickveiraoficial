@@ -3,7 +3,7 @@
 ![Banner](https://i.ibb.co/PsK2kw3j/banner-trickveira.jpg)  
 
 
-Bem-vindo ao meu cantinho no GitHub! Sou um apaixonado por tecnologia, criador de conteúdo no YouTube e entusiasta de soluções inovadoras. Especializado em redes, programação e desenvolvimento, estou sempre buscando formas criativas de resolver problemas e compartilhar conhecimento com o mundo.
+Bem-vindo ao meu cantinho no GitHub! Sou um entusiasta da tecnologia e criador de conteúdo no YouTube, sempre em busca de explorar e aprender novas soluções inovadoras. Embora ainda esteja desenvolvendo minhas habilidades em programação, encaro essa jornada como um hobby que me permite ajudar pessoas e expandir meu conhecimento na área de TI.
 
 > **"A tecnologia é a ponte entre o impossível e o real – e eu adoro construir essas pontes!"**
 
@@ -13,9 +13,8 @@ Bem-vindo ao meu cantinho no GitHub! Sou um apaixonado por tecnologia, criador d
 
 ## 🌍 Um pouco sobre mim
 
-- **O que eu faço:** Desenvolvo ferramentas úteis, crio conteúdo no YouTube e mergulho fundo em tecnologias como redes, ciência de dados e mais.
-- **Minha paixão:** Transformar ideias em código e ajudar pessoas a entenderem o poder da tecnologia.
-- **Curiosidade:** Sou um gamer nas horas vagas e acredito que os jogos têm muito a ensinar sobre estratégia e inovação.
+- **O que eu faço:** Experimento com projetos que envolvem redes, ciência de dados e outras tecnologias, criando ferramentas que podem ser úteis para a comunidade.
+- **Minha paixão:** Transformar ideias em código e descobrir, aos poucos, o potencial transformador da tecnologia.
 
 ---
 
