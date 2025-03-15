@@ -1,19 +1,15 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> **Olá! Eu sou Patrick Oliveira**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Olá! Eu sou Patrick Oliveira
 
-![Banner](https://i.ibb.co/QF6dXTV0/banner.png)
+# Bem-vindo ao meu GitHub!
 
-Bem-vindo ao meu GitHub! Sou entusiasta de tecnologia, criador de conteúdo no YouTube e apaixonado por aprender. Aqui, você encontrará meus experimentos com programação, redes, ciência de dados e jogos – sempre em busca de transformar ideias em soluções reais.
+Sou entusiasta de tecnologia, criador de conteúdo no YouTube e apaixonado por aprender. Aqui, você encontrará meus experimentos com programação, redes, ciência de dados e jogos – sempre em busca de transformar ideias em soluções reais.
 
-> **"A tecnologia é a ponte entre o impossível e o real."**
-
----
+> "A tecnologia é a ponte entre o impossível e o real."
 
 ## Sobre Mim
 
 - **O que faço:** Desenvolvo projetos envolvendo redes, ciência de dados e outras tecnologias inovadoras.
 - **Minha paixão:** Transformar ideias em código e explorar o universo da TI.
-
----
 
 ## Estatísticas do GitHub
 
@@ -21,8 +17,6 @@ Bem-vindo ao meu GitHub! Sou entusiasta de tecnologia, criador de conteúdo no Y
   <img src="https://github-readme-stats.vercel.app/api?username=trickveiraoficial&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trickveiraoficial&layout=compact&theme=dracula" alt="Linguagens mais usadas" width="300"/>
 </div>
-
----
 
 ## Habilidades
 
@@ -40,36 +34,46 @@ Bem-vindo ao meu GitHub! Sou entusiasta de tecnologia, criador de conteúdo no Y
   <img src="https://img.shields.io/badge/-Inglês_B1%2FB2-05122A?style=flat" alt="Inglês"/>
 </div>
 
----
+## Meus Projetos
 
-## Projetos em Destaque
+- **[Log Analyzer CSV](https://github.com/trickveiraoficial/log_analyzer_csv)**  
+  Analisa logs do Process Monitor para identificar erros e fornecer feedbacks úteis, auxiliando no diagnóstico de falhas de execução de jogos ou aplicativos no Windows 11 com uma saída visualmente atraente.
 
-- **[Tradutor de Arquivos SRT](https://github.com/trickveiraoficial/traducaosrt)**  
-  Ferramenta prática para traduzir arquivos SRT e tornar conteúdos multimídia mais acessíveis.
-  
+- **[Resume](https://github.com/trickveiraoficial/resume)**  
+  Resumo profissional desenvolvido com Streamlit.
+
+- **[Apresentação IA](https://github.com/trickveiraoficial/apresentacao_ia)**  
+  Apresentação profissional cocriada por IA Generativa.
+
+- **[Product Management API](https://github.com/trickveiraoficial/product-management-api)**  
+  Projeto criado durante o GitHub Copilot Bootcamp.
+
+- **[TraducaoSRT](https://github.com/trickveiraoficial/traducaosrt)**  
+  Automatização para a tradução de legendas .SRT utilizando o Microsoft Translator API.
+
+- **[Dataset Games Shop](https://github.com/trickveiraoficial/dataset-gamesshop)**  
+  Base de dados de uma fabricante de consoles para análises de dados.
+
+- **[Lab Natty or Not](https://github.com/trickveiraoficial/lab-natty-or-not)**  
+  Lab "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!".
+
+- **[DIO Lab Open Source](https://github.com/trickveiraoficial/dio-lab-open-source)**  
+  Repositório do lab "Contribuindo em um Projeto Open Source no GitHub" da Digital Innovation One.
+
 - **[DeepSeek R1 Chatbot Speech Azure](https://github.com/trickveiraoficial/deepseek-r1-chatbot-speech-azure)**  
-  Chatbot inovador com integração de voz utilizando serviços Azure.
-  
-- **[Desafio DIO / Lab Open-Source](https://github.com/trickveiraoficial/dio-lab-open-source)**  
-  Contribuição no lab da Digital Innovation One, explorando projetos open source.
-
-> Confira todos os meus repositórios e deixe uma ⭐ se gostar!
-
----
+  Integra o modelo DeepSeek-R1 da Azure AI com Azure Speech para criar um assistente virtual que interage em português, oferecendo respostas em texto e síntese de fala com clareza e naturalidade.
 
 ## Conecte-se Comigo
 
 - **YouTube:** [TRICKVEIRA](https://www.youtube.com/c/TRICKVEIRA)  
   Tutoriais, reviews e dicas sobre tecnologia e jogos.
-- **LinkedIn:** [Patrick Oliveira](https://www.linkedin.com/in/ids-oliveira)  
+- **LinkedIn:** [Patrick Oliveira](https://www.linkedin.com/in/patrick-oliveira)  
   Vamos fazer networking e explorar novas oportunidades!
-
----
 
 ## Contato
 
-Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/ids-oliveira) ou [YouTube](https://www.youtube.com/c/TRICKVEIRA). Estou sempre aberto a trocar ideias e colaborar em novos projetos!
+Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/patrick-oliveira) ou [YouTube](https://www.youtube.com/c/TRICKVEIRA). Estou sempre aberto a trocar ideias e colaborar em novos projetos!
 
 ---
 
-Obrigado por visitar meu perfil. Siga-me para acompanhar minhas próximas aventuras no mundo da tecnologia! 🚀
+Obrigado por visitar meu perfil. Siga-me para acompanhar minhas próximas aventuras no mundo da tecnologia!
